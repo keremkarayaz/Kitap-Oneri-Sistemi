@@ -1,2 +1,2 @@
-# Kitap-neri-Sistemi
+# Kitap-Oneri-Sistemi
 Dünya klasikleri üzerine kitap öneri sistemi
