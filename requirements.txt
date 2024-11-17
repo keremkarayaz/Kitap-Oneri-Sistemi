@@ -1,7 +1,6 @@
-pandas
-streamlit
-scikit-surprise
-numpy
-openpyxl
+pandas==2.0.0
+streamlit==1.16.0
+scikit-surprise==1.0.0
+numpy==1.23.0
+openpyxl==3.0.10
 
-pip install -r requirements.txt
