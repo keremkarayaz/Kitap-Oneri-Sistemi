@@ -4,3 +4,4 @@ scikit-surprise
 numpy
 openpyxl
 
+pip install -r requirements.txt
