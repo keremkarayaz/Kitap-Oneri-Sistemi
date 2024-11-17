@@ -1,0 +1,5 @@
+streamlit
+scikit-surprise
+numpy
+pandas
+openpyxl
