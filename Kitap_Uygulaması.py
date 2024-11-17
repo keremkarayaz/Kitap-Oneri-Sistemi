@@ -6,7 +6,7 @@ from surprise.model_selection import train_test_split
 
 # Verileri yükleyin
 @st.cache_data
-world_classics_df = pd.read_csv('world_classics_books.csv')
+world_classics_df = pd.read_csv(r'C:\Users\90533\Desktop\world_classics_books.csv')
 books_by_category_df = pd.read_excel('all_books_by_category.csv')
 
 # Streamlit başlığı ve açıklama
