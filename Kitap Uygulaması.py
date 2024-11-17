@@ -5,8 +5,8 @@ from surprise.model_selection import train_test_split
 
 
 # Verileri yükleyin
-world_classics_df = pd.read_csv(r'https://raw.githubusercontent.com/keremkarayaz/Kitap-Oneri-Sistemi/main/world_classics_books.csv')
-books_by_category_df = pd.read_excel(r'https://raw.githubusercontent.com/keremkarayaz/Kitap-Oneri-Sistemi/main/all_books_by_category.xlsx')
+world_classics_df = pd.read_csv('world_classics_books.csv')
+books_by_category_df = pd.read_excel(r'all_books_by_category.xlsx')
 # Streamlit başlığı ve açıklama
 st.title("Kitap Öneri Sistemi")
 st.write("Okuduğunuz dünya klasiklerine göre size öneriler sunalım!")
